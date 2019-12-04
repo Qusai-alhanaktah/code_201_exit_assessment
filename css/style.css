@@ -1,0 +1,56 @@
+main, nav{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+header{
+    background-color: teal;
+    height: 120px;
+}
+
+nav img{
+    float: left;
+    height: 100px ;
+    margin-top: 10px;
+}
+nav ul{
+    margin-left: 30px;
+    display: inline-block;
+}
+nav ul li{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    color: white ;
+    font: normal;
+}
+#iamgeP{
+    margin-top: 50px;
+
+}
+#iamgeP img{
+    float: right;
+margin-left: 50px;
+
+}
+#iamgeP p{
+    
+    overflow: scroll;
+    height: 250px;
+   
+}
+#biggerImage{
+    margin-top: 50px;
+}
+#input{
+width: 750px;
+height: 30px;
+}
+#submit{
+    margin-left: 60px;
+    height: 30px;
+    width: 60px;
+    border: solid 2px aqua;
+    background-color: white;
+    color: aqua;
+}
